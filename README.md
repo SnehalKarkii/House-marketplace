@@ -1,12 +1,12 @@
 # React Dashboard
 
-A app to list the house for rent or sell.
+An app to list the house for rent or sale.
 
 ## Features
 
-- Signup, Login and password recovery authentication system.
-- Used firebase for the database and fetching the data.
-- Styled the app using tailwind css.
+- Signup, Login, and password recovery authentication system.
+- Used Firebase for the database and fetching the data.
+- Styled the app using tailwind CSS.
 
 ## Technologies Used
 
@@ -28,11 +28,11 @@ Make sure you have the following installed on your machine:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/react-dashboard.git
+   git clone https://github.com/your-username/House-marketplace.git
    ```
 2. Navigate to the project directory:
    ```bash
-     cd react-dashboard
+     cd House-marketplace
    ```
 3. Install Dependencies
    ```bash
